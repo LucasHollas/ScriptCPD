@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017/11/18 09:40:55.504,=D:\Users\uniuv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/18 09:41:33.311,C:\Users\uniuv\Desktop\Sisteminha\Login.View.dfm=D:\Users\uniuv\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/11/18 09:41:33.311,C:\Users\uniuv\Desktop\Sisteminha\Login.View.pas=D:\Users\uniuv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/18 09:41:43.516,C:\Users\uniuv\Desktop\Sisteminha\CPD.dproj=D:\Users\uniuv\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/11/18 10:19:24.674,=C:\Users\uniuv\Desktop\Sisteminha\Unit2.pas</Transaction>
+    <Transaction>2017/11/18 10:20:54.862,C:\Users\uniuv\Desktop\Sisteminha\Logout.View.dfm=C:\Users\uniuv\Desktop\Sisteminha\Unit2.dfm</Transaction>
+    <Transaction>2017/11/18 10:20:54.862,C:\Users\uniuv\Desktop\Sisteminha\Logout.View.pas=C:\Users\uniuv\Desktop\Sisteminha\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
